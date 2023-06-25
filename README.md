@@ -6,3 +6,4 @@ https://youtu.be/f9Aje_cN_CY
 1. Arrays
 2. Linked List
 3. Stacks Using Linked List
+4. Stacks Using Arrays
